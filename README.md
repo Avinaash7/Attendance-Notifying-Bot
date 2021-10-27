@@ -6,8 +6,6 @@
 ### Attendance Notifying Bot
 An Attendance notifying telegram bot which sends a message every time your prof call's your name or start's taking attendance during Online/Offline class.
 
-
-
 ### Installing
 You can install or upgrade python-telegram-bot with:
 
@@ -22,6 +20,9 @@ Or you can install from source with:
  You can install speech recognition with:
     
     $ pip install SpeechRecognition
+ 
+### Telegram Bot ( LazyLearner)
+Add the Telegram Bot [LazyLearner](t.me/LazyLearner_bot)
 
 ### Contributions
 For contributions to this repository, 
