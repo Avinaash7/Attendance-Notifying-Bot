@@ -25,7 +25,7 @@ Or you can install from source with:
 Add the Telegram Bot [LazyLearner](t.me/LazyLearner_bot)
 
 ### How to Use?
-- Run device_index_finder.py and choose your preferable index number.
+- Run device_index_finder.py and choose your preferable index number
 - Run virtual_friend.py 
 - Enter your name
 - Enter index number
