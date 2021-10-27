@@ -13,7 +13,7 @@ You can install or upgrade python-telegram-bot with:
 
 Or you can install from source with:
 
-    $ git clone https://github.com/python-telegram-bot/python-telegram-bot --recursive
+    $ git clone https://github.com/python-telegram-bot/python-telegram-bot 
     $ cd python-telegram-bot
     $ python setup.py install
     
